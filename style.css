@@ -1,0 +1,55 @@
+*{
+    font-family: 'Kanit', sans-serif;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+.carousel-image-1{
+    background-image: url(/picture/sensitive_area.png);
+    background-color: #0C0C0C;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-image-2{
+    background-image: url(/picture/sensitive_lightning.png);
+    background-color: #0C0C0C;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-image-3{
+    background-image: url(/picture/sensitiv_cat.png);
+    background-color: #0C0C0C;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+#service{
+    min-height: 200px;
+    position: relative;
+    background-image: url(/picture/sensitive_space.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    background-attachment: fixed;
+}
+
+#about{
+    color: white;
+}
+
+#contact{
+    color: white;
+}
+
+#roblox{
+    color: white;
+}
